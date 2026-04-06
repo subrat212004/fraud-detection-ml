@@ -131,7 +131,7 @@ if st.button("Predict Fraud"):
     
     with st.spinner("Processing Transaction..."):
         
-        url = "http://127.0.0.1:8000/predict"
+        url = "https://fraud-detection-ml-sea5.onrender.com/predict"
         
         input_data = {
             "step": step,
