@@ -16,6 +16,10 @@ This project demonstrates the complete machine learning lifecycle, including:
 - Model deployment  
 
 ---
+## Live Demo
+
+Try the Live Application:  
+https://fraud-detection-ml-yhxu9zrd3j8bzvyhtyfsbr.streamlit.app/
 
 ## Key Features
 
