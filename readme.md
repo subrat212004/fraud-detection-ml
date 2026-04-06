@@ -18,8 +18,18 @@ This project demonstrates the complete machine learning lifecycle, including:
 ---
 ## Live Demo
 
-Try the Live Application:  
+### Streamlit Application
+
 https://fraud-detection-ml-yhxu9zrd3j8bzvyhtyfsbr.streamlit.app/
+
+### FastAPI Documentation
+
+https://fraud-detection-ml-sea5.onrender.com/docs
+
+### Prediction API Endpoint
+
+https://fraud-detection-ml-sea5.onrender.com/predict
+
 
 ## Key Features
 
